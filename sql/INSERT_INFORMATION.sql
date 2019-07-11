@@ -1,0 +1,10 @@
+insert into information values('S01','8 Bisto','Korat','044-248888','International Food');
+insert into information values('S02','Suzette','Korat','044-322283','Pizza');
+insert into information values('S03','Jade Cuisine','Korat','087-6442693','Thai Food');
+insert into information values('S04','Shabu Indy','Korat','093-1374536','Shabu');
+insert into information values('S05','Starbucks','Korat','084-3569538','Drink');
+insert into information values('S06','Krua Plern Pung','Korat','088-5946636','Thai Food');
+insert into information values('S07','Dee Den Icecream','Korat','0987758939','Icecream');
+insert into information values('S08','Da De Bar On Festival','Korat','087-9878900','Thai Food');
+insert into information values('S09','Krua Khao Yai','Korat','086-8659263','Thai Food');
+insert into information values('S10','Laapnua','Korat','084-3569689','Thai Food');
